@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">GestureControlApplication</string>
+
+    <string-array name="gesture_name">
+        <item id="Num0">Num0</item>
+        <item id="Num1">Num1</item>
+        <item id="Num2">Num2</item>
+        <item id="Num3">Num3</item>
+        <item id="Num4">Num4</item>
+        <item id="Num5">Num5</item>
+        <item id="Num6">Num6</item>
+        <item id="Num7">Num7</item>
+        <item id="Num8">Num8</item>
+        <item id="Num9">Num9</item>
+        <item id="LightOn">LightOn</item>
+        <item id="LightOff">LightOff</item>
+        <item id="FanOn">FanOn</item>
+        <item id="FanOff">FanOff</item>
+        <item id="FanUp">FanUp</item>
+        <item id="FanDown">FanDown</item>
+        <item id="SetThermo">SetThermo</item>
+    </string-array>
+    >
+</resources>
