@@ -1,0 +1,13 @@
+D:\Sonali\ASU_MS\ASAD\Project\VisualStudio\repos\BMI_WCF_SOAP\bin\BMI_WCF_SOAP.dll.config
+D:\Sonali\ASU_MS\ASAD\Project\VisualStudio\repos\BMI_WCF_SOAP\bin\BMI_WCF_SOAP.dll
+D:\Sonali\ASU_MS\ASAD\Project\VisualStudio\repos\BMI_WCF_SOAP\bin\BMI_WCF_SOAP.pdb
+D:\Sonali\ASU_MS\ASAD\Project\VisualStudio\repos\BMI_WCF_SOAP\obj\Debug\BMI_WCF_SOAP.csproj.CoreCompileInputs.cache
+D:\Sonali\ASU_MS\ASAD\Project\VisualStudio\repos\BMI_WCF_SOAP\obj\Debug\BMI_WCF_SOAP.dll
+D:\Sonali\ASU_MS\ASAD\Project\VisualStudio\repos\BMI_WCF_SOAP\obj\Debug\BMI_WCF_SOAP.pdb
+D:\Sonali\ASU_MS\ASAD\Project\My_Submission\BMI_Calculation_Part1\Sonali_Chinara_Unit5_Project\BMI_WCF_SOAP\bin\BMI_WCF_SOAP.dll.config
+D:\Sonali\ASU_MS\ASAD\Project\My_Submission\BMI_Calculation_Part1\Sonali_Chinara_Unit5_Project\BMI_WCF_SOAP\bin\BMI_WCF_SOAP.dll
+D:\Sonali\ASU_MS\ASAD\Project\My_Submission\BMI_Calculation_Part1\Sonali_Chinara_Unit5_Project\BMI_WCF_SOAP\bin\BMI_WCF_SOAP.pdb
+D:\Sonali\ASU_MS\ASAD\Project\My_Submission\BMI_Calculation_Part1\Sonali_Chinara_Unit5_Project\BMI_WCF_SOAP\obj\Debug\BMI_WCF_SOAP.csproj.AssemblyReference.cache
+D:\Sonali\ASU_MS\ASAD\Project\My_Submission\BMI_Calculation_Part1\Sonali_Chinara_Unit5_Project\BMI_WCF_SOAP\obj\Debug\BMI_WCF_SOAP.csproj.CoreCompileInputs.cache
+D:\Sonali\ASU_MS\ASAD\Project\My_Submission\BMI_Calculation_Part1\Sonali_Chinara_Unit5_Project\BMI_WCF_SOAP\obj\Debug\BMI_WCF_SOAP.dll
+D:\Sonali\ASU_MS\ASAD\Project\My_Submission\BMI_Calculation_Part1\Sonali_Chinara_Unit5_Project\BMI_WCF_SOAP\obj\Debug\BMI_WCF_SOAP.pdb

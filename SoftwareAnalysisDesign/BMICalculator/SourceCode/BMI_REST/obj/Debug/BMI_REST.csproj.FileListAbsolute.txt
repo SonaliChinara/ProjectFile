@@ -1,0 +1,14 @@
+D:\Sonali\ASU_MS\ASAD\Project\VisualStudio\repos\BMI_REST\bin\BMI_REST.dll.config
+D:\Sonali\ASU_MS\ASAD\Project\VisualStudio\repos\BMI_REST\bin\BMI_REST.dll
+D:\Sonali\ASU_MS\ASAD\Project\VisualStudio\repos\BMI_REST\bin\BMI_REST.pdb
+D:\Sonali\ASU_MS\ASAD\Project\VisualStudio\repos\BMI_REST\obj\Debug\BMI_REST.csproj.AssemblyReference.cache
+D:\Sonali\ASU_MS\ASAD\Project\VisualStudio\repos\BMI_REST\obj\Debug\BMI_REST.csproj.CoreCompileInputs.cache
+D:\Sonali\ASU_MS\ASAD\Project\VisualStudio\repos\BMI_REST\obj\Debug\BMI_REST.dll
+D:\Sonali\ASU_MS\ASAD\Project\VisualStudio\repos\BMI_REST\obj\Debug\BMI_REST.pdb
+D:\Sonali\ASU_MS\ASAD\Project\My_Submission\BMI_Calculation_Part1\Sonali_Chinara_Unit5_Project\BMI_REST\bin\BMI_REST.dll.config
+D:\Sonali\ASU_MS\ASAD\Project\My_Submission\BMI_Calculation_Part1\Sonali_Chinara_Unit5_Project\BMI_REST\bin\BMI_REST.dll
+D:\Sonali\ASU_MS\ASAD\Project\My_Submission\BMI_Calculation_Part1\Sonali_Chinara_Unit5_Project\BMI_REST\bin\BMI_REST.pdb
+D:\Sonali\ASU_MS\ASAD\Project\My_Submission\BMI_Calculation_Part1\Sonali_Chinara_Unit5_Project\BMI_REST\obj\Debug\BMI_REST.csproj.AssemblyReference.cache
+D:\Sonali\ASU_MS\ASAD\Project\My_Submission\BMI_Calculation_Part1\Sonali_Chinara_Unit5_Project\BMI_REST\obj\Debug\BMI_REST.csproj.CoreCompileInputs.cache
+D:\Sonali\ASU_MS\ASAD\Project\My_Submission\BMI_Calculation_Part1\Sonali_Chinara_Unit5_Project\BMI_REST\obj\Debug\BMI_REST.dll
+D:\Sonali\ASU_MS\ASAD\Project\My_Submission\BMI_Calculation_Part1\Sonali_Chinara_Unit5_Project\BMI_REST\obj\Debug\BMI_REST.pdb
